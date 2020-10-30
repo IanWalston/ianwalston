@@ -1,9 +1,5 @@
 ### Ian Walston - Front-end focused full stack web developer
 
-I am exactly where the human and computer meet each other.
-
-It’s a pretty cool place to be.
-
 I build web apps and APIs using ***javascript***. 
 
 ***Express*** in the backend, ***React*** in the frontend.
