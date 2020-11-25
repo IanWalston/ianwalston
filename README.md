@@ -6,4 +6,4 @@ I build web apps and APIs using ***javascript***.
 
 I believe anything can be achieved with the proper combination of science, technology, and motivated humans.
 
-Check out my web development portfolio at https://ianwalston.github.io/portfolio/
+Check out my web development portfolio at https://ianwalston.github.io/
