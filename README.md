@@ -1,6 +1,6 @@
 ### Ian Walston 
 
- - Front-end Focused Full Stack Web Developer
+ - Front-end focused full stack web developer
  - Open source contributer
- - Hackathon Winner
- - JavaScript Enthusiest 
+ - Hackathon winner
+ - JavaScript enthusiest 
